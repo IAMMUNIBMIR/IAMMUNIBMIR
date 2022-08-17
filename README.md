@@ -1,6 +1,6 @@
 ### Hi there 👋, Munib Mir
 #### Software development and Data Sciences
-![Software development and Data Sciences](https://my.visme.co/view/w430dxk6-z4p5zzpmjqyo57n1)
+![Software development and Data Sciences](blob:https://web.whatsapp.com/f8a60e00-aff3-4346-963c-8d1a30616134)
 
 I am Munib, I post content related to software and data sciences and I enjoy sharpening my skills in these fields. Feel free to check out my projects, will upload more whenever I get a chance.
 Currently a student in G12.
