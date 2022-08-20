@@ -1,7 +1,7 @@
 ### Hi there 👋, Munib Mir
 
 #### Software development and Data Sciences
-![Software development and Data Sciences](blob:https://pbs.twimg.com/profile_banners/3653736374/1661019112/600x200)
+(blob:https://pbs.twimg.com/profile_banners/3653736374/1661019112/600x200)
 
 I am Munib, I post content related to software and data sciences and I enjoy sharpening my skills in these fields. Feel free to check out my projects, will upload more whenever I get a chance.
 Currently a student in G12.
